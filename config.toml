@@ -4,18 +4,18 @@ cache_url = "https://whuran.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
-
-[[sources]]
-limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 150
+category = "cs.CL"
+title = "Computation and Language"
 
 [[sources]]
 limit = 150
