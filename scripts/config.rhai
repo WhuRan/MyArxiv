@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["BERT", "Transformer", "Multi model"];
-let titles_method = ["OCR", "Scene Text", "text", "Text", "document", "layout", "GPT"];
+let titles_method = ["OCR", "Scene Text", "text", "Text", "document", "layout", "GPT", "LLM", "Large"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Xiang Bai", "Lianwen Jin"];
 
